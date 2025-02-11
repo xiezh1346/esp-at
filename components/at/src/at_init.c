@@ -351,4 +351,5 @@ void esp_at_init(void)
 
     esp_at_ready();
     ESP_LOGD(TAG, "esp_at_init done");
+    ESP_LOGD(TAG, "esp_at_init done");
 }
